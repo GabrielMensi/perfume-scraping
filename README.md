@@ -1,6 +1,5 @@
 # Web Scraping Perfumes
 
-Este proyecto contiene un script para realizar web scraping de perfumes y guardar imágenes de productos.
 
 ## Requisitos
 - Python 3.8 o superior
@@ -32,4 +31,3 @@ Las imágenes descargadas se guardarán en la carpeta `imagenes_productos/`.
 
 ## Notas
 - Asegurate de tener permisos de escritura en la carpeta del proyecto.
-- Si el script requiere argumentos, consultá el código fuente para más detalles.
