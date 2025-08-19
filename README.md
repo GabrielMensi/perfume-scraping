@@ -10,7 +10,7 @@ Este proyecto contiene un script para realizar web scraping de perfumes y guarda
 
 Cloná el repositorio usando:
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/GabrielMensi/perfume-scraping.git
 ```
 O descargá el ZIP desde GitHub y extraelo.
 
